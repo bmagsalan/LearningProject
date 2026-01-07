@@ -1,0 +1,3 @@
+[submodule "LearningAssistant"]
+	path = LearningAssistant
+	url = git@github.com-personal:bmagsalan/LearningAssistant.git
